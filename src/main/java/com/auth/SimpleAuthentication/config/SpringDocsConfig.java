@@ -1,4 +1,4 @@
-package com.auth.SimpleAuthentication.Config;
+package com.auth.SimpleAuthentication.config;
 
 import io.swagger.v3.oas.models.OpenAPI;
 import io.swagger.v3.oas.models.info.Contact;
